@@ -1,4 +1,3 @@
-// package test.pkgcase;
 import java.util.HashMap;
 import java.util.Map;
 
